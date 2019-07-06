@@ -30,4 +30,4 @@ version:
 <img src="experimental/image/now/1-3.jpg" alt="drawing" width="200"/> 
 <img src="experimental/image/now/1-4.jpg" alt="drawing" width="200"/> 
 - <br />
-- 7個月的時間，如果說做這樣還沒有拖延，實在讓我方難以接受。
+- **7個月的時間，如果說做這樣還沒有拖延，實在讓我方難以接受。**
