@@ -4,4 +4,7 @@ title              = "藏經閣幸福奇蹟室內裝修 胡子翔 不良業者�
 
 paginate           = 100
 publishDir         = "docs"
+theme              = "hugo-changelog-theme"
 
+[markup.goldmark.renderer]
+    unsafe= true
