@@ -1,9 +1,9 @@
 ---
 title: 
 subtitle: 
-date: 2018-09-02T20:46:47+02:00
+date: 2020-06-03T02:08:47+08:00
 removal_date: 2100-07-07
-weight: 120
+weight: 150
 version:
 ---
 
@@ -19,5 +19,7 @@ version:
 - [公司臉書](https://www.facebook.com/Happymiracle1688)
 - [負責人臉書](https://www.facebook.com/miracle.hu.77)
 - [助理臉書](https://www.facebook.com/profile.php?id=1066911873&epa=SEARCH_BOX)
+
+目前公司已遷移到台北及桃園，請北部的朋友要小心。
 
 **絲毫無誠信可言，工程惡意拖延。 絕對是不良業者，請大家小心**
