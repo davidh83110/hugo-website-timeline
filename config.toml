@@ -1,6 +1,6 @@
 baseURL            = "/"
 languageCode       = "en-us"
-title              = "藏經閣幸福奇蹟室內裝修 胡子翔 不良業者糾紛紀錄"
+title              = "室內裝修不良業者糾紛紀錄"
 
 paginate           = 100
 publishDir         = "docs"
