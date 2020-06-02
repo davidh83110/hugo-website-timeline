@@ -1,5 +1,6 @@
-baseURL = "https://evidence.davidh83110.com/"
-languageCode = "en-us"
-title = "幸福奇蹟室內裝修 胡子翔 不良業者糾紛紀錄"
+baseURL            = "/"
+languageCode       = "en-us"
+title              = "藏經閣幸福奇蹟室內裝修 胡子翔 不良業者糾紛紀錄"
 
-paginate = 100
+paginate           = 100
+publishDir         = "docs"
