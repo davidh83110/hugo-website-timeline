@@ -1,0 +1,3 @@
+[submodule "themes/hugo-changelog-theme"]
+	path = themes/hugo-changelog-theme
+	url = https://github.com/jsnjack/hugo-changelog-theme.git
