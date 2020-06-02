@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>/released/4-10/</loc>
-  </url>
-  
-  <url>
     <loc>/released/3-28/</loc>
   </url>
   
@@ -75,6 +71,11 @@
   
   <url>
     <loc>/released/depr/</loc>
+    <lastmod>2018-09-02T20:46:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/released/company/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url>
   
